@@ -33,8 +33,7 @@ StellarSpark is a production-ready, decentralized crowdfunding platform built on
 
 <p align="center">
   <!-- TODO: Optional second screenshot showing the wallet popup or donation success state -->
-  <img src="https://via.placeholder.com/800x450.png?text=Insert+Wallet+Or+Success+Screenshot+Here" alt="StellarSpark Wallet Transaction Screenshot" />
-</p>
+<img width="1169" height="830" alt="Screenshot 2026-02-26 124947" src="https://github.com/user-attachments/assets/78e27af9-6b59-4c03-b4d5-288c287ef542" />
 
 
 ## 🚀 Getting Started
